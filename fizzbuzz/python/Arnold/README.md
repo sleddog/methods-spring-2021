@@ -15,7 +15,7 @@ step-by-step to install Python and run this program.
    
 3. Open the python.exe installer in your File Explorer/Finder.
 
-4. Before clicking next or anything, make sure to click the box in the lower right to
+4. Before clicking next or anything, make sure to click the box in the lower right (if it shows up) to
 "add python to PATH."
    
 5. Run through the installer, setting the options to what you'd like.
