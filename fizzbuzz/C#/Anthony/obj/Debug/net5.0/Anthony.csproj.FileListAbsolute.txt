@@ -1,0 +1,16 @@
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\bin\Debug\net5.0\Anthony.exe
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\bin\Debug\net5.0\Anthony.deps.json
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\bin\Debug\net5.0\Anthony.runtimeconfig.json
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\bin\Debug\net5.0\Anthony.runtimeconfig.dev.json
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\bin\Debug\net5.0\Anthony.dll
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\bin\Debug\net5.0\ref\Anthony.dll
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\bin\Debug\net5.0\Anthony.pdb
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\obj\Debug\net5.0\Anthony.csprojAssemblyReference.cache
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\obj\Debug\net5.0\Anthony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\obj\Debug\net5.0\Anthony.AssemblyInfoInputs.cache
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\obj\Debug\net5.0\Anthony.AssemblyInfo.cs
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\obj\Debug\net5.0\Anthony.csproj.CoreCompileInputs.cache
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\obj\Debug\net5.0\Anthony.dll
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\obj\Debug\net5.0\ref\Anthony.dll
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\obj\Debug\net5.0\Anthony.pdb
+C:\Users\nardi\Documents\2020-2021\Spring\methods-spring-2021\fizzbuzz\C#\Anthony\obj\Debug\net5.0\Anthony.genruntimeconfig.cache
