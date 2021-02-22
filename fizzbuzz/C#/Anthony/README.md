@@ -24,15 +24,18 @@ In order to run my solution, a user will need to install the .NET Compiler onto 
 * If Running on a Unix system, make the file an executable by running the following command 
 ~~~
 chmod 755 c#fizz.sh
-~~~.
+~~~
+~~~
 * On Windows Powershell, run the command 
-~~~ 
+~~~
 sh c#fizz.sh 
-~~~ 
+~~~
 or 
 ~~~
 sh c#fizz
-~~~ in order to run the shell script.
+~~~
+~~~
+in order to run the shell script.
 * Follow the Onscreen Prompts in order to have the program evaluate your solution.  
 
 ## What happens if the script doesn't work? 
