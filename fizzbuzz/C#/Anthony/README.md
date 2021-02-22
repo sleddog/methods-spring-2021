@@ -15,15 +15,25 @@ If divisible by both 3 and 5, then the word "FizzBuzz" replaces the number. Othe
 ## Steps to Run the Program
 In order to run my solution, a user will need to install the .NET Compiler onto their development environment. 
 
-*Go to the .NET Framework Download [page](https://dotnet.microsoft.com/download). 
-*Download the .NET SDK (Note: You can use .NET Core and the Framework, but those compilers add additional details that may complicate compilation. The Developer recommends the standard .NET SDK for this project.)
-*After downloading the SDK, clone repo onto local Machine. 
-*Locate the C#/Anthony file directory within the larger repository. 
-*CD into the C#/Anthony directory in order to open up the project. 
-*Check that the fizzbuzz.cs file successfully came through the tranfer, alongside the c#fizz.sh file. 
-*If Running on a Unix system, make the file an executable by running the following command '''chmod 755 c#fizz.sh'''.
-*On Windows Powershell, run the command '''sh c#fizz.sh''' or '''sh c#fizz''' in order to run the shell script.
-*Follow the Onscreen Prompts in order to have the program evaluate your solution.  
+* Go to the .NET Framework Download [page](https://dotnet.microsoft.com/download). 
+* Download the .NET SDK (Note: You can use .NET Core and the Framework, but those compilers add additional details that may complicate compilation. The Developer recommends the standard .NET SDK for this project.)
+* After downloading the SDK, clone repo onto local Machine. 
+* Locate the C#/Anthony file directory within the larger repository. 
+* CD into the C#/Anthony directory in order to open up the project. 
+* Check that the fizzbuzz.cs file successfully came through the tranfer, alongside the c#fizz.sh file. 
+* If Running on a Unix system, make the file an executable by running the following command 
+'''
+chmod 755 c#fizz.sh
+'''.
+* On Windows Powershell, run the command 
+''' 
+sh c#fizz.sh 
+''' 
+or 
+'''
+sh c#fizz
+''' in order to run the shell script.
+* Follow the Onscreen Prompts in order to have the program evaluate your solution.  
 
 ## What happens if the script doesn't work? 
 If the shell script fails to work, but you installed dotnet successfully. Then you can run
