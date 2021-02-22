@@ -22,24 +22,24 @@ In order to run my solution, a user will need to install the .NET Compiler onto 
 * CD into the C#/Anthony directory in order to open up the project. 
 * Check that the fizzbuzz.cs file successfully came through the tranfer, alongside the c#fizz.sh file. 
 * If Running on a Unix system, make the file an executable by running the following command 
-'''
+~~~
 chmod 755 c#fizz.sh
-'''.
+~~~.
 * On Windows Powershell, run the command 
-''' 
+~~~ 
 sh c#fizz.sh 
-''' 
+~~~ 
 or 
-'''
+~~~
 sh c#fizz
-''' in order to run the shell script.
+~~~ in order to run the shell script.
 * Follow the Onscreen Prompts in order to have the program evaluate your solution.  
 
 ## What happens if the script doesn't work? 
 If the shell script fails to work, but you installed dotnet successfully. Then you can run
-'''
+~~~
 dotnet build
 dotnet run
-''' 
+~~~ 
 within the directory in order to achieve the results! 
 
