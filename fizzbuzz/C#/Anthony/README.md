@@ -25,7 +25,6 @@ In order to run my solution, a user will need to install the .NET Compiler onto 
 ~~~
 chmod 755 c#fizz.sh
 ~~~
-~~~
 * On Windows Powershell, run the command 
 ~~~
 sh c#fizz.sh 
@@ -33,7 +32,6 @@ sh c#fizz.sh
 or 
 ~~~
 sh c#fizz
-~~~
 ~~~
 in order to run the shell script.
 * Follow the Onscreen Prompts in order to have the program evaluate your solution.  
