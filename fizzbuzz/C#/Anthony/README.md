@@ -25,13 +25,18 @@ In order to run my solution, a user will need to install the .NET Compiler onto 
 ~~~
 chmod 755 c#fizz.sh
 ~~~
+Then run 
+~~~
+sh c#fizz.sh "Number I want to input"
+~~~
+
 * On Windows Powershell, run the command 
 ~~~
-sh c#fizz.sh 
+sh c#fizz.sh "Number I want to input"
 ~~~
 or 
 ~~~
-sh c#fizz
+sh c#fizz "Number I want to input"
 ~~~
 in order to run the shell script.
 * Follow the Onscreen Prompts in order to have the program evaluate your solution.  
@@ -40,7 +45,7 @@ in order to run the shell script.
 If the shell script fails to work, but you installed dotnet successfully. Then you can run
 ~~~
 dotnet build
-dotnet run
+dotnet run "Number I want to input"
 ~~~ 
 within the directory in order to achieve the results! 
 
