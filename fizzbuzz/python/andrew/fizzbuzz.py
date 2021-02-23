@@ -1,5 +1,6 @@
-print("Enter a number: ")
-num = int(input())
+import sys
+
+num = int(sys.argv[1])
 
 for n in range(1, num + 1):
     if (n % 15) == 0:
