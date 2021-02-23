@@ -38,8 +38,7 @@ or
 ~~~
 sh c#fizz "Number I want to input"
 ~~~
-in order to run the shell script.
-* Follow the Onscreen Prompts in order to have the program evaluate your solution.  
+in order to run the program. 
 
 ## What happens if the script doesn't work? 
 If the shell script fails to work, but you installed dotnet successfully. Then you can run
