@@ -5,4 +5,4 @@
 echo "Running C# Fizzbuzz Program...";
 
 dotnet build;
-dotnet run;
+dotnet run $1;
