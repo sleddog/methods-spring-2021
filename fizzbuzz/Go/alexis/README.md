@@ -3,7 +3,7 @@
 ### **Overview:**
 This folder contains files contributing to a fizzbuzz solution written in Go. This is a super fun coding challenge used in many coding interviews!!
 * "fizzbuzz.go" - This is the main source code that solves fizzbuzz.
-* "run.sh" - This is the script used to run the above file
+* "run.sh" - This is the script used to run the above file.
 
 ### **Instructions:**
 **Downloading Go** 
