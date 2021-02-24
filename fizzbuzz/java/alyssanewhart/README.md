@@ -16,13 +16,11 @@ This can be done using the following command `java -version`. If Java is not ins
 * Open the terminal on your machine
 * Navigate to the directory where the files are located
 * Use the command `chmod u+x run.sh` to make the shell script executable
-* Run the bash script using the command `./run.sh`
-* User will then be prompted to enter their input number on the command line
+* Run the bash script using the command `./run.sh` followed by `n`
 
 #### Sample Run
 ```
-$ ./run.sh
-Enter number: 15
+$ ./run.sh 15
 1
 2
 Fizz
