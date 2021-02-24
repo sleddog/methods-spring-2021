@@ -2,6 +2,4 @@
 
 javac FizzBuzz.java
 
-read -p "Enter number: " number
-
-java FizzBuzz $number
+java FizzBuzz $1
