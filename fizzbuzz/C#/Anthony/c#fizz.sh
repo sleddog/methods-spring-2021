@@ -4,5 +4,5 @@
 
 echo "Running C# Fizzbuzz Program...";
 
-dotnet build fizzbuzz.cs;
+dotnet msbuild --restore fizzbuzz.cs;
 dotnet run $1;
