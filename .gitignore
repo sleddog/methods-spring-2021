@@ -3,3 +3,4 @@
 fizzbuzz/C#/Anthony/.vscode
 fizzbuzz/C#/Anthony/bin/Debug/net5.0
 fizzbuzz/C#/Anthony/obj
+*.csproj
