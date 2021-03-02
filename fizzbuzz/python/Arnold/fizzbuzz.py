@@ -2,7 +2,7 @@ import sys
 
 if __name__ == "__main__":
     num = int(sys.argv[1])
-    for i in range(num):
+    for i in range(1, num+1):
         stringbuild = ""
         if(i % 3 == 0):
             stringbuild += "Fizz"
