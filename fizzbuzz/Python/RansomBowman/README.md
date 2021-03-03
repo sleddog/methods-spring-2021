@@ -1,7 +1,9 @@
 # FizzBuzzPython
- FizzBuzz in Python
+FizzBuzz in Python 3
 
- This program takes an input number from the user and then iterates from 1 to
+Make sure Python 3 is installed and set to path
+
+This program takes an input number from the user and then iterates from 1 to
 the provided number, printing each number and printing Fizz if the number of
 the iteration is a multiple of 3 instead of the number, and Buzz if the 
 iterated number is a multiple of 5 instead of the number. At a number that is 
