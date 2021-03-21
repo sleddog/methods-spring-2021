@@ -9,6 +9,7 @@ def validate_file(output, lines):
         line = file.readline()[:-1]
         assert output[i] == line
         i += 1
+    file.close()
 
 
 def test_fizz():
