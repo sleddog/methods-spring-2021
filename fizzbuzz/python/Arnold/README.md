@@ -1,4 +1,4 @@
-#The FizzBuzz Problem, as Coded by Arnold Smithson
+# The FizzBuzz Problem, as Coded by Arnold Smithson
 
 Welcome to Arnold's implementation of the FizzBuzz problem, coded in Python!
 This code is meant to print "Fizz" if the inputted number is divisible
@@ -6,7 +6,7 @@ by 3, "Buzz" if the number is divisible by 5, and FizzBuzz
 if the number is divisible by both. Otherwise, the number prints. If you don't have python installed, here is a quick
 step-by-step to install Python and run this program.
 
-##Installing Python
+## Installing Python
 
 1. Go to [the python website.](https://www.python.org)
 
