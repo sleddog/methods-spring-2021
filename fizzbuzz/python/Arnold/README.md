@@ -39,3 +39,17 @@ program is running.
 If I had to change anything about my solution, I could take user input during the program instead
 of a program argument upon execution. Otherwise, I'm not sure what else I could do to "imrpove" it. There's always more than one solution,
 and I'm sure this is one of millions at this point!
+
+## Running The Unit Tests
+
+These tests can be run via pytest. If you don't have that installed, follow the instructions at [this link.](https://docs.pytest.org/en/stable/getting-started.html)
+
+### How They Work
+
+I covered all 16 test cases, found by using the power set of the numbers 3, 5, 7, and 11. I'm sure this amount of tests wasn't necessary since running 1155 would cover everything, but it's always good to have coverage. Each unit test runs the `fizz_buzz` function and compares its results to an output file using the `validate_file` helper function. `output.txt` contains the answer when 1155 is put into the function, so it included the numbers from all previous test cases. 
+
+### The Commands
+
+1. Change directories to `fizzbuzz/python/Arnold`.
+
+2. run `pytest fizzbuzz_test.py`.
