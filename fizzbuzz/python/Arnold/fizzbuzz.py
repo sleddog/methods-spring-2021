@@ -26,4 +26,3 @@ if __name__ == "__main__":
     num = int(sys.argv[1])
     print(fizz_buzz(num))
 
-# Test cases: 0, 3, 5, 15, 7, 21, 35, 105, 11, 33, 55, 165, 77, 231, 385, 1155
