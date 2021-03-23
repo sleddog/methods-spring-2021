@@ -37,5 +37,7 @@ namespace fizzbuzz.Tests
             var newFizz = new fizzBuzz();
             Assert.Equal("FizzBuzz", newFizz.FizzBuzz(15));
         }
+
+        
     }
 }
