@@ -2,14 +2,20 @@
 
 namespace Anthony
 {
-    class fizzbuzz
+    class fizzBuzz
     {
         static void Main(string[] args)
         {
             int number;
             bool test = int.TryParse(args[0], out number);
-            for(int i=1; i<number+1; i++){
-                String numberString ="";
+            var fizz = new fizzBuzz();
+            fizz.FizzBuzz(number);
+        }
+
+        public String FizzBuzz(int testNumber){
+            String numberString ="";
+            for(int i=1; i<testNumber+1; i++){
+                numberString ="";
                 if (i%3==0){
                     numberString = numberString+"Fizz";
                 }
@@ -27,6 +33,7 @@ namespace Anthony
                 }
                 Console.WriteLine(numberString);
             }
+            return numberString;
         }
     }
 }
