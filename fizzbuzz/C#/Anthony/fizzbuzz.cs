@@ -2,7 +2,7 @@
 
 namespace Anthony
 {
-    class fizzBuzz
+    public class fizzBuzz
     {
         static void Main(string[] args)
         {

@@ -1,4 +1,3 @@
-using System;
 using Xunit;
 using Anthony;
 
@@ -38,6 +37,22 @@ namespace fizzbuzz.Tests
             Assert.Equal("FizzBuzz", newFizz.FizzBuzz(15));
         }
 
+        [Fact]
+        public void Testfor21(){
+            var newFizz = new fizzBuzz();
+            Assert.Equal("FizzPing", newFizz.FizzBuzz(21));
+        }
         
+        [Fact]
+        public void Testfor33(){
+            var newFizz = new fizzBuzz();
+            Assert.Equal("FizzPong", newFizz.FizzBuzz(33));
+        }
+
+        [Fact]
+        public void Testfor1155(){
+            var newFizz = new fizzBuzz();
+            Assert.Equal("FizzBuzzPingPong", newFizz.FizzBuzz(1155));
+        }
     }
 }
