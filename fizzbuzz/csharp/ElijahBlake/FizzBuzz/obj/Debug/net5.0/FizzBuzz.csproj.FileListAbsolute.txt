@@ -1,0 +1,14 @@
+/Users/elijahblake12/methods-spring-2021/fizzbuzz/csharp/ElijahBlake/FizzBuzz/bin/Debug/net5.0/FizzBuzz.deps.json
+/Users/elijahblake12/methods-spring-2021/fizzbuzz/csharp/ElijahBlake/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.json
+/Users/elijahblake12/methods-spring-2021/fizzbuzz/csharp/ElijahBlake/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.dev.json
+/Users/elijahblake12/methods-spring-2021/fizzbuzz/csharp/ElijahBlake/FizzBuzz/bin/Debug/net5.0/FizzBuzz.dll
+/Users/elijahblake12/methods-spring-2021/fizzbuzz/csharp/ElijahBlake/FizzBuzz/bin/Debug/net5.0/ref/FizzBuzz.dll
+/Users/elijahblake12/methods-spring-2021/fizzbuzz/csharp/ElijahBlake/FizzBuzz/bin/Debug/net5.0/FizzBuzz.pdb
+/Users/elijahblake12/methods-spring-2021/fizzbuzz/csharp/ElijahBlake/FizzBuzz/obj/Debug/net5.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elijahblake12/methods-spring-2021/fizzbuzz/csharp/ElijahBlake/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/elijahblake12/methods-spring-2021/fizzbuzz/csharp/ElijahBlake/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfo.cs
+/Users/elijahblake12/methods-spring-2021/fizzbuzz/csharp/ElijahBlake/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/elijahblake12/methods-spring-2021/fizzbuzz/csharp/ElijahBlake/FizzBuzz/obj/Debug/net5.0/FizzBuzz.dll
+/Users/elijahblake12/methods-spring-2021/fizzbuzz/csharp/ElijahBlake/FizzBuzz/obj/Debug/net5.0/ref/FizzBuzz.dll
+/Users/elijahblake12/methods-spring-2021/fizzbuzz/csharp/ElijahBlake/FizzBuzz/obj/Debug/net5.0/FizzBuzz.pdb
+/Users/elijahblake12/methods-spring-2021/fizzbuzz/csharp/ElijahBlake/FizzBuzz/obj/Debug/net5.0/FizzBuzz.genruntimeconfig.cache
