@@ -15,7 +15,7 @@ This can be done using the following command `java -version`. If Java is not ins
 * Download the `FizzBuzz.java` and `run.sh` files.
 * Open the terminal on your machine
 * Navigate to the directory where the files are located
-* Use the command `chmod u+x run.sh` to make the shell script executable
+* Use the command `chmod +x run.sh` to make the shell script executable
 * Run the bash script using the command `./run.sh` followed by `n`
 
 #### Sample Run
