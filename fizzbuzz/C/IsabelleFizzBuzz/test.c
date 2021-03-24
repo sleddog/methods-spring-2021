@@ -1,43 +1,12 @@
+
 #include <stdio.h>
 #include <assert.h>
 #include <string.h>
 #include <stdlib.h>
-
-char* fizztest(int n){
-
-	char str[50] = "";
-
-	if((n% 3 == 0) || (n%5 == 0) || (n%7 == 0) || (n%11 == 0)) {
-		if(n%3 == 0){
-			strcat(str, "Fizz");			
-		}
-		if(n%5 == 0){
-			strcat(str, "Buzz");
-		}
-		if(n %7 == 0){
-			strcat(str, "Ping");
-		}
-		if(n%11 == 0){
-			strcat(str, "Pong");
-		}
-	}
-	if((n% 3 != 0) && (n%5 != 0) && (n%7 != 0) && (n%11 != 0)) 
-	{
-		//copy n into str
-		char string[50] = "";
-		char buffer[10];
-		sprintf(buffer, "%d", n);
-		strcat(str, buffer);
-	}
-	char *strP = (char *) malloc(strlen (str) + 1);
-	strncpy(strP, str, sizeof(str));
-	return strP;
-}
+#include "fizzbuzzpingpongSolution.h"
 
 int main() {
-	char str[50];
-	strcpy(str, fizztest(3));
-	
+
 //if divisible by none
 	assert(strcmp("1", fizztest(1)) == 0);
 	assert(strcmp("2", fizztest(2)) == 0);
@@ -104,4 +73,7 @@ int main() {
 	assert(strcmp("FizzBuzzPingPong", fizztest(1155)) == 0);
 
 	printf("Tests Passed\n");
+
+	return 0;
+
 }
