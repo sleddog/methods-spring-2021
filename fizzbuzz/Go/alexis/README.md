@@ -29,3 +29,6 @@ https://www.jetbrains.com/help/go/configuring-goroot-and-gopath.html#goroot
         8
         fizz
 
+**Running the tests**
+1. Download fizzbuzz.go, run.sh, and fizzbuzz_test.go from this directory.  
+2. In your terminal, run 'go test' to run all tests in the fizzbuzz_test.go file.
