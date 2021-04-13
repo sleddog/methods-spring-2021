@@ -11,9 +11,7 @@ fun buttonPress(n: Int) {
         a = temp
         
     }
-    
     println("$a $b")
-    
 }
 
 fun main(args: Array<String>) {
