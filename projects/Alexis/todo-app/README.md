@@ -6,7 +6,7 @@ This folder houses source code for a user interactive ToDo list React App. There
 ### **The App:**
 This small but powerful app is a front-end visualization of a custom todo list, created by the user. The user can visit the page, and input several tasks on their todo list to help keep up on things. 
 
-**Using the App**
+### **Using the App**
  While it's not quite up for deployment, the following link will lead you right to CodeSandbox where you can play around with the interface.   
  https://codesandbox.io/s/todo-app-yrhv4?file=/src/ToDo.jsx  
  Enjoy!
